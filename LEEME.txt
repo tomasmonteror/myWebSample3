@@ -1,11 +1,6 @@
 1- Abrir cmd.
 2- Acceder a la ruta en la que se encuentra este fichero (cd C:\Users\0013246\Documents\copia seguridad VN\Documentos\CURSO SEGURIDAD\Herramientas\WebGoat)
-
 3- ejecutar: java -jar WebGoat-6.0.1-war-exec.jar  -httpPort 9099
- o 
-3- ejecutar: java -jar webgoat-server-8.0.0.M12.jar --server.port=9091
-
 4- ejecutar: java -jar ./webscarab-selfcontained-20070504-1631.jar
-
 
 Command Injection: " & netstat -an & ipconfig"
